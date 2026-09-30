@@ -1,6 +1,6 @@
 """
-This file contains the functions for the article *Deterministic computation of
-linear structures on general Drinfeld modules over finite fields*, by Antoine
+This file contains the functions for the article *Computing submodules
+of points of general Drinfeld modules over finite fields*, by Antoine
 Leudière and Renate Scheidler.
 """
 
