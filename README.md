@@ -1,8 +1,10 @@
 # Companion repository to *Computing submodules of points of general Drinfeld modules over finite fields*
 
 This repository contains the SageMath implementation of the main algorithms of
-the paper *Computing submodules of points of general Drinfeld modules over
-finite fields*, by [Antoine
+the paper [*Computing submodules of points of general Drinfeld modules over
+finite fields*](https://arxiv.org/abs/2601.02162), accepted at [ANTS
+2026](https://www.antsxvii.org/papers.html) and to appear in *Research in
+Number Theory*, by [Antoine
 Leudière](https://cspages.ucalgary.ca/~antoine.leudiere1/) and [Renate
 Scheidler](https://cspages.ucalgary.ca/~rscheidl/).
 
